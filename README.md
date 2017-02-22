@@ -1,8 +1,3 @@
-# MyTest
-For Testing
+# Information_Centre
+This repository has Java application for demo
 
-
-I will commit more changes to this Repo !!
-
-
-Comittin again
